@@ -1,0 +1,71 @@
+body {
+  background: LightSteelBlue;
+  color: #44444;
+  margin-top: 0;
+}
+
+h1{
+  color: #444444;
+}
+
+a:link, a:visited {
+  background-color: red;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: blue;
+}
+
+.icon {
+    padding-right: 40px;
+    text-align: end;
+
+}
+
+.image {
+    padding-bottom: 18px;
+    height: 507px;
+    weight: 407px;
+}
+
+.post {
+    margin-top: 150px;
+    text-align: center;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    background: lightblue;
+    height: auto;
+    weight:500px;
+    margin-left:270px;
+    margin-right:270px;
+
+
+
+
+}
+
+.comment {
+   text-align: justify;
+}
+.res {
+  background-color: lightblue;
+  text-align: center;
+
+}
+
+.post h1 {
+      color: blue;
+      font-size: 2.5rem;
+      font-weight: 300;
+      line-height: 1.2;
+}
+
+.post:hover {
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.8);
+    transition: box-shadow 0.3s ease;
+}
+
