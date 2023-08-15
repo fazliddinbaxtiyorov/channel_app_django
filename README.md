@@ -26,6 +26,7 @@ python manage.py runserver
   * Asosiy pagega qayting;
   * Asosiy pageda sizda mana bunday button paydo bo'ladi:
   * Create new postga kiring va o'z postinggizni yarating 
-  ![image](https://github.com/fazliddinbaxtiyorov/channel_app_django/assets/137509986/5fd42350-c778-4f28-b3b4-ceb233d7dc62)
+  ![image](https://github.com/fazliddinbaxtiyorov/channel_app_django/assets/137509986/d659d3e8-a416-4f20-ad8d-92e2b499ee73)
+
 
  
